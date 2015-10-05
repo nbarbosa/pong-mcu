@@ -1,7 +1,7 @@
 # PONG!
 This is a 2-player C implementation of PONG that runs on the LCD display and analog inputs of a PIC16F877A micro controller. This was a school project.
 
-![Project Demo](https://raw.github.com/nbarbosa/pong_mcu/master/pong_PIC16F877A.gif)
+![Project Demo](https://github.com/nbarbosa/pong-mcu/raw/master/pong_PIC16F877A.gif)
 
 ## License
 Copyright 2015 Natã Barbosa.
